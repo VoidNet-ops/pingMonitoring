@@ -15,13 +15,13 @@
   Text to Powershell Console, CSV files of monitored hosts and _Downtime.csv
   
 .NOTES
-  Version:        3.03
-  Author:         Dennis Ozmert
-  GitHub:		  https://github.com/dozmert1
-  Creation Date:  20/10/2021 @ 9:00am
-  Last Updated:   18/11/2021
-  Purpose/Change: Network hardware cutover
-  License:		  GNU General Public License
+  Version:        	3.03
+  Author:         	Dennis Ozmert
+  GitHub:	  	https://github.com/VoidNet-ops
+  Creation Date: 	20/10/2021 @ 9:00am
+  Last Updated:   	18/11/2021
+  Purpose/Change:	Network hardware cutover
+  License:		GNU General Public License
   
 .EXAMPLE
   .\pingMonitoring.ps1
